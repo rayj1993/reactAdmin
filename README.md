@@ -3,4 +3,12 @@
 ##### 使用的技术栈有
 
 - react
+- ant design
+- ant design pro
+- umijs
+- redux-saga
+- typescript
+- axios
+- dva
+- lodash
 - yarn
